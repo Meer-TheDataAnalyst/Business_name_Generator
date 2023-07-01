@@ -1,5 +1,5 @@
 
-using python you can create a business name generator,
+Using python you can create a business name generator,
 here is the process how it is done
 
 #Business_name_Generator
