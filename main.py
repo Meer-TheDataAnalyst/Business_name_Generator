@@ -1,4 +1,4 @@
-# star with greetings
+# start with greetings
 print("welcome to the Business name genrator")
 #name the city you grew up in?
 city= input("whats the name of the city you grew up in? ")
